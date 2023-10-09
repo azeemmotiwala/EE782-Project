@@ -1,5 +1,5 @@
 # EE782-Project
-This repository has been created for a course project
+This repository has been created for a course project. The references are chosen solely for educational purposes only.
 # Literature Reference
 1) Denoising Diffusion Probabilistic Model:
 **https://browse.arxiv.org/pdf/2006.11239.pdf**
@@ -7,3 +7,4 @@ This repository has been created for a course project
 **https://browse.arxiv.org/pdf/2112.10752.pdf**
 # References
 1) **https://medium.com/@gitau_am/a-friendly-introduction-to-denoising-diffusion-probabilistic-models-cc76b8abef25**
+2) **https://www.youtube.com/watch?v=HoKDTa5jHvg**
