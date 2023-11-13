@@ -9,4 +9,4 @@ This repository has been created for a course project. The references are chosen
 1) **https://medium.com/@gitau_am/a-friendly-introduction-to-denoising-diffusion-probabilistic-models-cc76b8abef25**
 2) **https://www.youtube.com/watch?v=HoKDTa5jHvg**
 # Resources
-4) **https://abaft-pheasant-b08.notion.site/Stable-Diffusion-301d48ffbc4f4455bcc70d75c9448adb**
+1) **https://abaft-pheasant-b08.notion.site/Stable-Diffusion-301d48ffbc4f4455bcc70d75c9448adb**
